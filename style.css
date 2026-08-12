@@ -126,3 +126,11 @@ main {
 .zona_hadal {
     background-image: url(zona_hadal.png);
 }
+.hadal header {
+      position: relative;
+    top: 200px;
+}
+.hadal main {
+     position: relative;
+    top: 250px;
+}
