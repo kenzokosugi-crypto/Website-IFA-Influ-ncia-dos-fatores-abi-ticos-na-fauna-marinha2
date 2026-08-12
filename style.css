@@ -123,7 +123,7 @@ main {
 .transicao_hadal {
     background-color: black;
 }
-.zona_hadal {
+.hadal {
     background-image: url(zona_hadal.png);
 }
 .hadal header {
