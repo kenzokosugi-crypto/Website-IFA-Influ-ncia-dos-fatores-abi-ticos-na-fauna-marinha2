@@ -112,6 +112,10 @@ main {
     position: relative;
     top: 200px;
 }
+.fauna_abissal {
+     position:absolute;
+    top: 400px;
+}
 .transicao_abissal {
     background-image: url(transicao_abissal.png);
 }
@@ -126,10 +130,6 @@ main {
     position: relative;
     top: 250px;
 }
-.fauna_abissal {
-     position:absolute;
-    top: 400px;
-}
 .transicao_hadal {
     background-color: black;
 }
@@ -143,6 +143,12 @@ main {
 .hadal main {
      position: relative;
     top: 250px;
+}
+.polvo_dumbo {
+    position: absolute;
+    top:900px;
+    size:10%;
+    filter:saturate(30%) blur(2px);
 }
 .final {
     background-color: #373e42;
