@@ -156,3 +156,19 @@ main {
 .referencias {
     background-color: #373e42;
 }
+
+
+.pag_dumbo {
+    background-image: url(zona_abissal.png);
+}
+.pag_dumbo header {
+    text-align: center;
+    top:200px
+}
+.pag_dumbo main {
+    text-align: left;
+}
+.imag_dumbo {
+    position: absolute;
+    top: 400px
+}
